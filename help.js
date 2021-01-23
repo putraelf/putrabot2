@@ -7,7 +7,7 @@ const help = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp) 
 ┣⊱ *XP* : ${getLevelingXp(sender)}/${reqXp}
 ┣⊱ *level* : ${getLevelingLevel(sender)}
 ┗━━━━━━━━━━━━━━━━
-
+⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️
 ┏━━❉ *LEVEL 0* ❉━━┓
 ┣⊱ *${prefix}sticker*
 ┣⊱ *${prefix}tts*
@@ -43,7 +43,7 @@ const help = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp) 
 ┣⊱ *${prefix}rate*
 ┣⊱ *${prefix}owner*
 ┗━━━━━━━━━━━━━━
-
+⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️
 ┏━━❉ *Nsfw* ❉━━━━┓
 ┣⊱ *${prefix}waifu*
 ┣⊱ *${prefix}anime*
@@ -53,7 +53,7 @@ const help = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp) 
 ┣⊱ *${prefix}anjing*
 ┣⊱ *${prefix}indohot*
 ┗━━━━━━━━━━━━━━
-
+⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️
 ┏━━❉ *Group* ❉━━━━┓
 ┣⊱ *${prefix}hidetag*
 ┣⊱ *${prefix}linkgc*
@@ -81,6 +81,14 @@ const help = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp) 
 ┣⊱ *${prefix}leave*
 ┣⊱ *${prefix}clone*
 ┗━━━━━━━━━━━━━━━━
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┣⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┃     ⛓️⛓️⛓️ *THANK YOU MY GROUP TOXIC PEOPLE* ⛓️⛓️⛓️
+┃https://chat.whatsapp.com/FaxM6du5qn1CSBg3fmxJ7j
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┃       ⛓️⛓️⛓️*POWERED BY PUTRAELF*⛓️⛓️⛓️
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 `
